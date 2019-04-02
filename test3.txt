@@ -3,6 +3,7 @@
 
  R‚pertoire de C:\Users\DESKTOP\Desktop\GitFolder
 
+<<<<<<< HEAD
 02/04/2019  16:42    <DIR>          .
 02/04/2019  16:42    <DIR>          ..
 02/04/2019  16:35               476 index.htlm
@@ -11,3 +12,14 @@
 02/04/2019  16:42                 0 test3.txt
                4 fichier(s)            1ÿ285 octets
                2 R‚p(s)  170ÿ223ÿ452ÿ160 octets libres
+=======
+02/04/2019  17:06    <DIR>          .
+02/04/2019  17:06    <DIR>          ..
+02/04/2019  16:35               476 index.htlm
+02/04/2019  16:29               381 test1.txt
+02/04/2019  16:30               428 test2.txt
+02/04/2019  17:06                 0 test3.txt
+02/04/2019  17:01               523 test4.txt
+               5 fichier(s)            1ÿ808 octets
+               2 R‚p(s)  170ÿ225ÿ369ÿ088 octets libres
+>>>>>>> branch1

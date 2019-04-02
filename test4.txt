@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n?a pas de nom.
+ Le num‚ro de s‚rie du volume est 6CFF-93E0
+
+ R‚pertoire de C:\Users\DESKTOP\Desktop\GitFolder
+
+02/04/2019  17:33    <DIR>          .
+02/04/2019  17:33    <DIR>          ..
+02/04/2019  16:35               476 index.htlm
+02/04/2019  16:29               381 test1.txt
+02/04/2019  16:30               428 test2.txt
+02/04/2019  17:11               987 test3.txt
+02/04/2019  17:33                 0 test4.txt
+               5 fichier(s)            2ÿ272 octets
+               2 R‚p(s)  170ÿ216ÿ267ÿ776 octets libres
